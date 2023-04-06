@@ -1,0 +1,12 @@
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/bin/Debug/net6.0/KatieCoctails.Contracts.deps.json
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/bin/Debug/net6.0/KatieCoctails.Contracts.dll
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/bin/Debug/net6.0/KatieCoctails.Contracts.pdb
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.csproj.AssemblyReference.cache
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.AssemblyInfoInputs.cache
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.AssemblyInfo.cs
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.csproj.CoreCompileInputs.cache
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.dll
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/refint/KatieCoctails.Contracts.dll
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/KatieCoctails.Contracts.pdb
+/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/Debug/net6.0/ref/KatieCoctails.Contracts.dll

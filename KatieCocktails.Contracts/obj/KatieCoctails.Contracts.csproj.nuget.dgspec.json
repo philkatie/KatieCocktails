@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/katiephillips/Code/KatieCocktails/KatieCoctails.Contracts/KatieCoctails.Contracts.csproj": {}
+    "/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/KatieCoctails.Contracts.csproj": {}
   },
   "projects": {
-    "/Users/katiephillips/Code/KatieCocktails/KatieCoctails.Contracts/KatieCoctails.Contracts.csproj": {
+    "/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/KatieCoctails.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/katiephillips/Code/KatieCocktails/KatieCoctails.Contracts/KatieCoctails.Contracts.csproj",
+        "projectUniqueName": "/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/KatieCoctails.Contracts.csproj",
         "projectName": "KatieCoctails.Contracts",
-        "projectPath": "/Users/katiephillips/Code/KatieCocktails/KatieCoctails.Contracts/KatieCoctails.Contracts.csproj",
+        "projectPath": "/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/KatieCoctails.Contracts.csproj",
         "packagesPath": "/Users/katiephillips/.nuget/packages/",
-        "outputPath": "/Users/katiephillips/Code/KatieCocktails/KatieCoctails.Contracts/obj/",
+        "outputPath": "/Users/katiephillips/Code/KatieCocktails/KatieCocktails.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/katiephillips/.nuget/NuGet/NuGet.Config"

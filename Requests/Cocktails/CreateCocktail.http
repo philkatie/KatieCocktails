@@ -1,0 +1,17 @@
+POST http://localhost:5184/cocktail
+Content-Type: application/json
+
+{
+    "name": "Cranberry Margarita",
+    "description": "Perfect for a wintery party!",
+    "startDateTime": "2022-04-08T08:00:00",
+    "endDateTime": "2022-04-08T11:00:00",
+    "ingredients": [
+        "Cranberry Juice",
+        "Fresh Lime Juice"
+    ],
+    "alcohol": [
+        "Tequila",
+        "Cointreau"
+    ]
+}
