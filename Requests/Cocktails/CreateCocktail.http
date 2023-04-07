@@ -1,4 +1,4 @@
-POST http://localhost:5184/cocktail
+POST http://localhost:5184/cocktails
 Content-Type: application/json
 
 {
